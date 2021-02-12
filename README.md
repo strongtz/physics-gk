@@ -1,6 +1,8 @@
 # physics-gk
 可能有用的高中物理笔记，整理于2020～2021
 
+[fastgit加速下载](https://hub.fastgit.org/strongtz/physics-gk/raw/main/Release_signed.pdf)
+
 ## 记录设备
 Sony DSC-RX100M7
 `ISO 100, F7.1, 闪光`
